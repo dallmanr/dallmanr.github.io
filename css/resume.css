@@ -70,7 +70,7 @@ h2 {
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(255, 255, 255, 0.2); }
+        border: 0.5rem solid rgba(58, 124, 165, 0.2); }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
@@ -86,7 +86,7 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #DEE2E6;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
@@ -104,12 +104,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #d9dcd6 !important; }
+  background-color: #D9DCD6 !important; }
 
 .text-primary {
   color: #BD5D38 !important; }
 
 a {
-  color: #3a7ca5; }
+  color: #3A7CA5; }
   a:hover, a:focus, a:active {
     color: #16425b; }
